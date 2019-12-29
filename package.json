@@ -1,0 +1,28 @@
+{
+  "name": "cocktail-manager",
+  "version": "1.0.0",
+  "description": "cocktail-manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximKudriavtsev/cocktail-manager.git"
+  },
+  "author": "MaxKudryavtsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximKudriavtsev/cocktail-manager/issues"
+  },
+  "homepage": "https://github.com/MaximKudriavtsev/cocktail-manager#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
